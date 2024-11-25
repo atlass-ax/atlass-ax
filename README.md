@@ -4,8 +4,8 @@
 ### 🙌 &nbsp;ABOUT ME:
 🎓 I have been a student at the National Aviation University since 2022, majoring in Cybersecurity\
 💻 In my free time I do front-end development of various mini-projects, writing scripts and programs, web and logo design. I study AI in monitoring systems.\
-📒 I take courses at Hack The Box, Pors Swigger, Sololearn and others.
-
+📒 I take courses at Hack The Box, Pors Swigger, Sololearn, Codewars and others. \
+📈 **Progress on Codewars:** ![Codewars](https://www.codewars.com/users/atlass-ax/badges/small)
 
 ### 🛠 &nbsp;HARD SKILLS
 #### OS & Technology: 
