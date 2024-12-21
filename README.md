@@ -5,6 +5,7 @@
 🎓 I have been a student at the Kyiv Aviation Institute since 2022, majoring in Cybersecurity\
 💻 In my free time I do front-end development of various mini-projects, writing scripts and programs, web and logo design. I study AI in monitoring systems and cybersecyrity in various systems.\
 📒 I take courses at Hack The Box, Pors Swigger, Sololearn, Codewars and others. \
+#### 🌐 My personal web-site: [link](https://atlass-ax.github.io/personal-web-site/)
 📈 **Progress on Codewars:** ![Codewars](https://www.codewars.com/users/atlass-ax/badges/small)
 
 ### 🛠 &nbsp;HARD SKILLS
